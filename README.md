@@ -8,7 +8,7 @@ project challenge.
 In order to be flexible & scalable with respect to desired analytics, I integrated the application w/ OpenAI
 GPT 4o so it can generate queries based on natural language (vs. fixed metric dashboard).
 
-It's current features include:
+Features include:
 
 - **Natural Language Interface**: Ask questions about visitor data in plain English
 - **Predefined Questions**: Predefined common queries for quick access to popular metrics
