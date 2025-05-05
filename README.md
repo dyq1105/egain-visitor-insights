@@ -10,8 +10,9 @@ GPT 4o so it can generate queries based on natural language (vs. fixed metric da
 
 It's current features include:
 
-- **Natural Language Query Interface**: Ask questions about visitor data in plain English
-- **Quick Insights**: Predefined common queries for quick access to popular metrics
+- **Natural Language Interface**: Ask questions about visitor data in plain English
+- **Predefined Questions**: Predefined common queries for quick access to popular metrics
+- **SQL Transparency**: Display converted SQL language to increase confidence
 - **Dynamic Results Table**: Automatically formatted table display for query results
 
 In the future, the application could be extended to post-process results into more meaningful charts
