@@ -37,6 +37,7 @@ pieces. Most of these choice were decided by the AI tool, but the dependencies a
 - **PostgreSQL**: Database system
 - **OpenAI API**: For natural language processing
 - **AWS**: Cloud server
+- **IPinfo**: Map IP address to geography and organizations
 
 ### Frontend
 - **HTML5**: Structure
