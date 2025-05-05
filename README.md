@@ -36,6 +36,7 @@ pieces. Most of these choice were decided by the AI tool, but the dependencies a
 - **SQLAlchemy**: Database ORM
 - **PostgreSQL**: Database system
 - **OpenAI API**: For natural language processing
+- **AWS**: Cloud server
 
 ### Frontend
 - **HTML5**: Structure
